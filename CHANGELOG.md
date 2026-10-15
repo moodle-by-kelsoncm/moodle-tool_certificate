@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.5.15 - 2026-10-15
+### Fixed
+- Define subplugintypes in subplugins.json to avoid deprecation warning in Moodle 4.5+ (MDL-83705)
+
 ## 4.5.14 - 2026-09-15
 ### Fixed
 - Accessibility improvements in forms
